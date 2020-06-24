@@ -1,0 +1,6 @@
+install Atom:
+https://atom.io/  
+
+install linter and linter-solidity:
+$ apm install linter
+$ apm install linter-solidity
